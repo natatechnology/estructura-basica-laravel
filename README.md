@@ -7,6 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+
+## Proyecto base en Laravel con autenticación incluida
+En este proyecto utilizamos el contenido básico de Laravel y la extensión Jetstream, solo debes crear el archivo .env basado en el contenido de .env.example para configurar la conexión a la base de datos y listo, disfruta de todos los beneficios de Laravel. + JetStream.
+
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
